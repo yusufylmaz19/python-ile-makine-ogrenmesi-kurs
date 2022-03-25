@@ -1,0 +1,1 @@
+print('Lab 1 açıldı shall we go there')
