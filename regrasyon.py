@@ -22,7 +22,7 @@ sc=StandardScaler()
 X_train=sc.fit_transform(x_train)
 X_test=sc.fit_transform(x_test)
 Y_train=sc.fit_transform(y_train)
-Y_test=sc.fit_transform(y_test),
+Y_test=sc.fit_transform(y_test)
 
 # basit doğrusal regerasyon
 from sklearn.linear_model import LinearRegression
